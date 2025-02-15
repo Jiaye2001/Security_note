@@ -1,1 +1,1 @@
-# Security_note
+# InformationSecurity
